@@ -3,6 +3,7 @@
     padding: 20px;
     border-radius: 5px;
     margin: 0 auto;
+    background-color: #f8f8f8;
 }
 
 .form__legend {
@@ -49,6 +50,7 @@
 
 .form__info {
     text-align: center;
+    font-weight: bold;
 }
 
 .form__result {
