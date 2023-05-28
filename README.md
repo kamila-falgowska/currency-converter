@@ -1,5 +1,5 @@
 # Currency-converter
-![currency](https://i.postimg.cc/rmpMtV2X/Currency-converter.png)
+![currency](https://i.postimg.cc/SNJmRnHF/Currency-converter-1.png)
 
 ## Demo
 https://kamila-falgowska.github.io/currency-converter/
@@ -10,6 +10,8 @@ This simple currency converter is designed to help you convert amounts from thre
 - Euro (EUR)
 - Dollar (USD)
 - Norwegian Krone (NOK)
+
+![Currency](gif/currency.gif)
 
 ## Technology used
 - HTML
