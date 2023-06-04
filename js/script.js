@@ -16,7 +16,7 @@
         }
     };
 
-    const updateResultText = (amount, result, currency) => {
+    const updateResultText = (result) => {
         const resultElement = document.querySelector(".js-result");
         resultElement.innerText = `${result.toFixed(2)}PLN`;
     }
@@ -32,7 +32,7 @@
 
         const result = calculateResult(amount, currency);
 
-        updateResultText(amount, result, currency);
+        updateResultText(result);
 
     };
 
