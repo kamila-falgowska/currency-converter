@@ -19,3 +19,5 @@ This simple currency converter is designed to help you convert amounts from thre
 - Java Script
 - BEM convention
 - Normalize CSS
+- Markdown
+- GIT
