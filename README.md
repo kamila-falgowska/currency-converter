@@ -1,5 +1,4 @@
 # Currency-converter
-![currency](https://i.postimg.cc/SNJmRnHF/Currency-converter-1.png)
 
 ## Demo
 https://kamila-falgowska.github.io/currency-converter/
@@ -17,7 +16,7 @@ This simple currency converter is designed to help you convert amounts from thre
 - HTML
 - CSS
 - Java Script
-- BEM convention
+- BEM
 - Normalize CSS
 - Markdown
 - GIT
