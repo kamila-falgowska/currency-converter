@@ -13,7 +13,7 @@ You can convert Polish Zloty to:
 - Dollar (USD)
 - Pound sterling (GBP)
 
-
+![Currency](gif/Currency.gif)
 
 ## Technology used
 
