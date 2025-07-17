@@ -2,7 +2,7 @@
 
 ## Demo
 
-https://kamila-falgowska.github.io/currency-converterNew/
+https://kamila-falgowska.github.io/currency-converter/
 
 ## Description
 
